@@ -1,0 +1,12 @@
+fastapi[standard]
+uvicorn[standard]
+agno
+google-genai
+sqlmodel
+psycopg[binary]
+psycopg2-binary
+pydantic-settings
+openai
+twilio
+python-multipart
+apscheduler
